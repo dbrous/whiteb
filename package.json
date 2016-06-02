@@ -1,0 +1,9 @@
+{
+	"name": "wboard",
+	"description": "Whiteboard.",
+	"author": "David Brous",
+	"dependencies" : {
+		"express": "4.x",
+		"socket.io": "*"
+	}
+}
